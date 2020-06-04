@@ -6,7 +6,14 @@
 *Singapore India Hackathon 2019*  
   
 A computer vision based solution that tracks attentivenss of students on E-Learning platforms in real time  
-
+  
+1) [Dataset](#dataset)
+   1) [Gathering Images](#gathering-images)
+   2) [Annoting Images](#annoting-images)
+2) [Deep Learning Model](#deep-learning-model)
+   1) [Training](#training)
+   2) [Detection](#detection)
+   
 <p align="center">
 <img src="https://github.com/jainamshah17/attentiveness-detection/blob/master/media/demo.gif" width="75%"/>
 </p>  
