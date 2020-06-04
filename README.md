@@ -7,13 +7,10 @@
   
 A computer vision based solution that tracks attentivenss of students on E-Learning platforms in real time  
   
-1) [Dataset](#dataset)
-   1) [Gathering Images](#gathering-images)
-   2) [Annoting Images](#annoting-images)
-2) [Deep Learning Model](#deep-learning-model)
-   1) [Training](#training)
-   2) [Detection](#detection)
+1) [Demonstration](#demonstration)
+   1) [Requirements](#requirements)
+   2) [Steps](#steps)
    
 <p align="center">
-<img src="https://github.com/jainamshah17/attentiveness-detection/blob/master/media/demo.gif" width="75%"/>
+<img src="https://github.com/jainamshah17/attentiveness-detection/blob/master/media/demo.gif" width="80%"/>
 </p>  
