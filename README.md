@@ -10,6 +10,7 @@ A computer vision based solution that tracks attentivenss of students on E-Learn
 1) [Demonstration](#demonstration)
    1) [Requirements](#requirements)
    2) [Steps](#steps)
+2) [Attentiveness Features](#attentiveness)
    
 <p align="center">
 <img src="https://github.com/jainamshah17/attentiveness-detection/blob/master/media/demo.gif" width="80%"/>
