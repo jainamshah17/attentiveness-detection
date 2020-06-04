@@ -16,5 +16,5 @@ A computer vision based solution that tracks attentivenss of students on E-Learn
 <img src="https://github.com/jainamshah17/attentiveness-detection/blob/master/media/demo.gif" width="80%"/>
 </p>  
   
-*🚀 This code uses ![Gaze Tracking](https://github.com/antoinelame/GazeTracking) library, credits to ![Antoine Lamé](https://github.com/antoinelame)*
+*🚀 This code uses [Gaze Tracking](https://github.com/antoinelame/GazeTracking) library, credits to [Antoine Lamé](https://github.com/antoinelame)*
   
